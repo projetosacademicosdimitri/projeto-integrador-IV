@@ -12,7 +12,7 @@ http://deuonda.esy.es/api.php/bahia/salvador/barravento
 
 Carga:
 
-service.deuonda.local/controller/get_file.php/bahia/salvador/barravento
+http://deuonda.esy.es/controller/get_file.php/bahia/salvador/barravento
 
 
 Ferramentas de graficos para android:
