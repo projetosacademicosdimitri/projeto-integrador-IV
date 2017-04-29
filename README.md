@@ -12,7 +12,7 @@ http://deuonda.esy.es/api.php/bahia/salvador/barravento
 
 Carga:
 
-http://deuonda.esy.es/surf/ondas/condicao/maranhao
+http://deuonda.esy.es/bahia/salvador/barravento
 
 
 Ferramentas de graficos para android:
